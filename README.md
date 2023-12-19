@@ -31,6 +31,7 @@ A recreation of the popular TV game show "Deal or No Deal" developed using Unrea
 - Unreal Engine
 - C++
 - UI/UX design using Unreal's tools
+- Visual Studio
 
 -----------------------------------------------------
 
