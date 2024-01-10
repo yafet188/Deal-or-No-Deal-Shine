@@ -36,7 +36,7 @@ A recreation of the popular TV game show "Deal or No Deal" developed using Unrea
 -----------------------------------------------------
 
 Deal or No Deal, all names of games, graphics, sounds, and other derivative works are © and ™ 2024
-Endemol Shine Group. No challenge of ownership by "Deal or No Deal Shine" is implied or intended. No cash
+Banijay Group. No challenge of ownership by "Deal or No Deal Shine" is implied or intended. No cash
 or prizes can or will be awarded due to playing this game. It is for entertainment only.
 
 
